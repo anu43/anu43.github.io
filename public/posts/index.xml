@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on AN U - Personal Website</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on AN U - Personal Website</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 02 Aug 2025 16:28:31 +0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Post</title>
+      <link>http://localhost:1313/posts/my-first-post/</link>
+      <pubDate>Sat, 02 Aug 2025 16:28:31 +0300</pubDate>
+      <guid>http://localhost:1313/posts/my-first-post/</guid>
+      <description>&lt;p&gt;This is the content of my first post. I am excited to share my thoughts and experiences with the world through this blog. Stay tuned for more updates and posts in the future!&#xA;Feel free to leave comments and feedback. I look forward to engaging with you all!&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
