@@ -2,3 +2,7 @@ baseURL = 'https://anu43.github.io/'
 languageCode = 'en-us'
 title = 'AN U - Personal Website'
 theme = 'github-style'
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
